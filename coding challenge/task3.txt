@@ -1,0 +1,8 @@
+the key things that we've to remember whenever creating an API to ensure security:
+-Use a strong authentication and authorization solution
+-Practice the principle of least privilege
+-Encrypt traffic using TLS
+-Remove information that’s not meant to be shared
+-Don’t expose more data than necessary
+-Use rate limiting
+-Use a web application firewall
